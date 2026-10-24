@@ -11,7 +11,7 @@ Bynd-Calist is a calisthenics training app for Android and iPhone, with four tra
 
 ## Download
 
-Install the official app from [`Bynd-Calist.apk`](Bynd-Calist.apk) (version 1.2, Android 8.0 or newer). On your phone, allow "Install unknown apps" for your browser or file manager, then open the APK.
+Install the official app from [`Bynd-Calist.apk`](Bynd-Calist.apk) (version 1.2.1, Android 8.0 or newer). On your phone, allow "Install unknown apps" for your browser or file manager, then open the APK.
 
 ## iPhone
 
@@ -27,7 +27,7 @@ The official Bynd-Calist app is signed by Mohammad Farmani. A copy that has been
 |---|---|
 | Signer | CN=Mohammad Farmani, O=Mohammad Farmani |
 | Signing certificate SHA-256 | `a58ead0301ee2ca200e91c81a574c8d55f116fe82b21dc4fdbc062ee53b2226e` |
-| Bynd-Calist.apk SHA-256 (v1.2) | `c4c202f226b189c9c1633c86804beb4bb7fb34db955f9fbce683d1b661af5b20` |
+| Bynd-Calist.apk SHA-256 (v1.2.1) | `63e2b9d8027833e5c73cb59db6894d2ac83d495396999b4298a287c1fdd3d4a5` |
 
 ## Copyright and license
 

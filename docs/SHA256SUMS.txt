@@ -1,0 +1,10 @@
+# Bynd-Calist · © 2026 Mohammad Farmani · SHA-256 checksums of the official files on this site
+63e2b9d8027833e5c73cb59db6894d2ac83d495396999b4298a287c1fdd3d4a5  Bynd-Calist.apk
+c52cc3a67193ee8ab6e81b4a732a8d14a0cb7700cb9a66ae1006eec831231144  app/_ds/modernist-8eed4452-5ebb-4676-9259-445c93d856a5/_ds_bundle.js
+2ce81399773d54cb0b70f5b0375614df8d199ff8d2d201b8310ed3ea1cf3cf19  app/_ds/modernist-8eed4452-5ebb-4676-9259-445c93d856a5/styles.css
+0a8d29aecd9e9850a864084b13c0514238d6c9344ba8c3afa5204733d197e09b  app/apple-touch-icon.png
+c7b94f2dada1ec58ce403941ad28175d3558685eb30a5a6b3ee06121cabb86fe  app/icon-192.png
+03ec092fcd7ccb64ca84d67776b8d7cb73efc4651fb8ce12ea88072fc4ce28d3  app/icon-512.png
+28d400368b8445ce9d2c29a8d73434c5d4d655d8f5125c2bb877efb8a006c664  app/index.html
+d79863aceebf6568bfe8c3c9d814e4936627134a73475fc76c9b71cb8e79dd6c  app/manifest.webmanifest
+f7cc91f7216451a7a4aa358fd77ecca7343cdcc00cb6cfed5ba7c0677e2c774e  app/sw.js

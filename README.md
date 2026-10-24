@@ -5,15 +5,17 @@
 
 Copyright © 2026 Mohammad Farmani. All rights reserved.
 
-Bynd-Calist is a calisthenics training app for Android, with four training levels built around your goal. It works fully offline.
+Bynd-Calist is a calisthenics training app for Android and iPhone, with four training levels built around your goal. It works offline.
+
+**Website and downloads: https://mfarmani85.github.io/Bynd-Calist/**
 
 ## Download
 
-Install the official app from [`Bynd-Calist.apk`](Bynd-Calist.apk) (version 1.1, Android 8.0 or newer). On your phone, allow "Install unknown apps" for your browser or file manager, then open the APK.
+Install the official app from [`Bynd-Calist.apk`](Bynd-Calist.apk) (version 1.2, Android 8.0 or newer). On your phone, allow "Install unknown apps" for your browser or file manager, then open the APK.
 
 ## iPhone
 
-1. Open **https://mfarmani85.github.io/Bynd-Calist/** in **Safari**.
+1. Open **https://mfarmani85.github.io/Bynd-Calist/** in **Safari** and tap **Open Bynd-Calist**.
 2. Tap the **Share** button, then **Add to Home Screen**, then **Add**.
 3. Open Bynd-Calist from your home screen. After the first launch it works offline.
 
@@ -25,7 +27,7 @@ The official Bynd-Calist app is signed by Mohammad Farmani. A copy that has been
 |---|---|
 | Signer | CN=Mohammad Farmani, O=Mohammad Farmani |
 | Signing certificate SHA-256 | `a58ead0301ee2ca200e91c81a574c8d55f116fe82b21dc4fdbc062ee53b2226e` |
-| Bynd-Calist.apk SHA-256 (v1.1) | `aa3100ebd4613291869a6d439a0e95741289538bf65a256a462831c04d91ecd6` |
+| Bynd-Calist.apk SHA-256 (v1.2) | `c4c202f226b189c9c1633c86804beb4bb7fb34db955f9fbce683d1b661af5b20` |
 
 ## Copyright and license
 
